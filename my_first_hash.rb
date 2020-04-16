@@ -1,11 +1,7 @@
 def my_hash
   pets = Hash.new 
-  pets = { "cat" => "blue", "dog" => "max", "rabbit"
-  
-  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
-  
-end
+  pets = {"cat" => "blue", "dog" => "max", "rabbit" => "ezra"}
+  end
 
 
 def shipping_manifest
